@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/leevl.unity
+- path: Assets/GluckLevel.unity
   isLoaded: 1
   isActive: 1
